@@ -21,15 +21,15 @@ Open Postman to test the API endpoints or use the following link:
     - http://localhost:3000/products
     
 ## Endpoint
-
-![Screenshot from 2022-12-05 14-58-22](https://user-images.githubusercontent.com/108609340/205635310-07ff4830-e1f8-4dcb-8249-db55c05749e5.png)
-
+![Screenshot from 2022-12-10 15-26-51](https://user-images.githubusercontent.com/108609340/206855065-329ece21-7da6-4a6a-adca-9efe43889779.png)
 
 
-Contact Information
+
+
+### Contact Information
 Incase of any enquiries or contributions, be sure to email me at["dennis.michemi@student.moringaschool.com"]
 
-License
+## License
 
 MIT Licence
 
