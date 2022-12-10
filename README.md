@@ -11,14 +11,14 @@ Dennis micheni
 ## Setup Instructions
 Open the Terminal command line: [CTRL+ALT+T]
 
-Clone the repository: [git clone https://github.com/D-Micheni/Superheroes]
+Clone the repository: [git clone https://github.com/D-Micheni/Gadgets-API.git]
 
-Change Directory: [cd Superheroes]
+Change Directory: [cd Gadgets API]
 
 Bundle install to istall to install the necessary dependancies 
 
 Open Postman to test the API endpoints or use the following link:
-    - http://localhost:3000/heros
+    - http://localhost:3000/products
     
 ## Endpoint
 
