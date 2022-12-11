@@ -1,6 +1,6 @@
 # Gadgets API
 ## Description
-Gadgets API is a RESTful API that provides a way to get, update, create  and track heroes and their superpowers.
+Gadgets API is a RESTful API that provides a way to get, update, create and update products.
 ## Author 
 Dennis micheni
 ## Technologies
